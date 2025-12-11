@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Base: ");
+		int b=sc.nextInt();
+		System.out.println("Height: ");
+		int h=sc.nextInt();
+		 Double result=0.5*b*h;
+		  System.out.println("Area of the triangle: "+result);
+	}
+}
