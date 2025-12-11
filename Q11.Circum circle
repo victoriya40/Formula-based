@@ -7,4 +7,5 @@ public class Main {
 		Double result=(2*3.14*r);
 		System.out.println("Circumference of circle: "+result);
 	}
+
 }
